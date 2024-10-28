@@ -7,7 +7,7 @@
  - 📫 Reach me via [mr.zaarir@esi-sba.dz](mailto:mr.zaarir@esi-sba.dz)
 
 ## 🔗 Other ways to reach me
-[![facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&labelColor=black&logo=facebook)](https://www.facebook.com/profile.php?id=100012635053612)
+[![facebook]([https://img.shields.io/badge/Facebook-black?style=for-the-badge&labelColor=black&logo=facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/andresecco.fanpage/))](https://www.facebook.com/profile.php?id=100012635053612)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-zaarir-b24573265/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mohamedzaarir1)
 
