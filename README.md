@@ -25,11 +25,11 @@
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png">
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" alt="kotlin" style="width:50px; height:50px;"/>
 </a>
-<a href="https://camo.githubusercontent.com/f76ca013b330e2bffb000dfd1f5487432ead1d7c6f489b6051a5ac5853ea4c78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667">
-    <img src="https://camo.githubusercontent.com/f76ca013b330e2bffb000dfd1f5487432ead1d7c6f489b6051a5ac5853ea4c78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667" alt="kotlin" style="width:40px; height:40px;"/>
-</a>
 <a href="https://seeklogo.com/images/C/compose-multiplatform-logo-49E1D09D49-seeklogo.com.png">
     <img src="https://seeklogo.com/images/C/compose-multiplatform-logo-49E1D09D49-seeklogo.com.png" alt="kotlin" style="width:40px; height:40px;"/>
+</a>
+<a href="https://camo.githubusercontent.com/f76ca013b330e2bffb000dfd1f5487432ead1d7c6f489b6051a5ac5853ea4c78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667">
+    <img src="https://camo.githubusercontent.com/f76ca013b330e2bffb000dfd1f5487432ead1d7c6f489b6051a5ac5853ea4c78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667" alt="kotlin" style="width:40px; height:40px;"/>
 </a>
 <a href="https://camo.githubusercontent.com/67135dbb34c06b25e9657820b5fc1b877e9f40d0663f375d43626599e0bc8382/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f646f636b65722f323439364544">
     <img src="https://camo.githubusercontent.com/67135dbb34c06b25e9657820b5fc1b877e9f40d0663f375d43626599e0bc8382/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f646f636b65722f323439364544" alt="kotlin" style="width:40px; height:40px;"/>
