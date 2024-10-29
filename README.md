@@ -41,13 +41,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaarirmoh&theme=radical&hide_border=false"/>
 </div>
 
-
-
-<div align="start">
+<div align="centert">
     <img src="https://github-readme-stats.vercel.app/api?username=zaarirmoh&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
-</div>
-<div align="end">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaarirmoh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaarirmoh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 
