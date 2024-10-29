@@ -38,14 +38,16 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaarirmoh&theme=dark&hide_border=false"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaarirmoh&theme=radical&hide_border=false"/>
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=zaarirmoh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<div align="start">
+    <img src="https://github-readme-stats.vercel.app/api?username=zaarirmoh&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
+</div>
+<div align="end">
+    <img src="[https://github-readme-streak-stats.herokuapp.com/?user=zaarirmoh&theme=radical&hide_border=false](https://github-readme-stats.vercel.app/api/top-langs/?username=zaarirmoh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)"/>
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=zaarirmoh&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaarirmoh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- 
 ## 🛠 Languages and Tecknologies
