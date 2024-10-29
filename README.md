@@ -16,6 +16,9 @@
 <a href="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png">
     <img src="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png" alt="kotlin" style="width:40px; height:40px;"/>
 </a>
+<a href="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="kotlin" style="width:40px; height:40px;"/>
+</a>
 <!--
 **zaarirmoh/zaarirmoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
