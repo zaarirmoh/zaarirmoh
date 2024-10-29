@@ -13,8 +13,8 @@
 
 ## 🛠 Languages and Tecknologies
 
-<a href="https://www.facebook.com/profile.php?id=100012635053612">
-    <img src="https://camo.githubusercontent.com/6647554cf19482c32acc6a6a3b8bd68b845fafabd474595e7e92dead3075c3ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" alt="kotlin" style="width:40px; height:40px;"/>
+<a href="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png">
+    <img src="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png" alt="kotlin" style="width:40px; height:40px;"/>
 </a>
 <!--
 **zaarirmoh/zaarirmoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
