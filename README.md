@@ -43,8 +43,8 @@
 <a href="https://seeklogo.com/images/C/compose-multiplatform-logo-49E1D09D49-seeklogo.com.png">
     <img src="https://seeklogo.com/images/C/compose-multiplatform-logo-49E1D09D49-seeklogo.com.png" alt="kotlin" style="width:40px; height:40px;"/>
 </a>
-<a href="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="kotlin" style="width:40px; height:40px;"/>
+<a href="https://camo.githubusercontent.com/2ea2f5d54a9fda39c543ef1d1948b6e5b1fba0798b383963b5550de7c4eb16ee/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646a616e676f2f646a616e676f2d706c61696e2e737667">
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg](https://camo.githubusercontent.com/2ea2f5d54a9fda39c543ef1d1948b6e5b1fba0798b383963b5550de7c4eb16ee/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646a616e676f2f646a616e676f2d706c61696e2e737667)" alt="kotlin" style="width:40px; height:40px;"/>
 </a>
 <a href="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="kotlin" style="width:40px; height:40px;"/>
