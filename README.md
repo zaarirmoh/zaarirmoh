@@ -40,6 +40,12 @@
 <a href="https://resources.jetbrains.com/storage/products/company/brand/logos/Ktor_icon.png">
     <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Ktor_icon.png" alt="kotlin" style="width:40px; height:40px;"/>
 </a>
+<a href="https://seeklogo.com/images/C/compose-multiplatform-logo-49E1D09D49-seeklogo.com.png">
+    <img src="https://seeklogo.com/images/C/compose-multiplatform-logo-49E1D09D49-seeklogo.com.png" alt="kotlin" style="width:40px; height:40px;"/>
+</a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="kotlin" style="width:40px; height:40px;"/>
+</a>
 <a href="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="kotlin" style="width:40px; height:40px;"/>
 </a>
