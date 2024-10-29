@@ -31,8 +31,8 @@
 <a href="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="kotlin" style="width:40px; height:40px;"/>
 </a>
-<a href="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="kotlin" style="width:40px; height:40px;"/>
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDZJjY4C5Eng_02ecSVeEBM6OhPm1ywSVUzw&s">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDZJjY4C5Eng_02ecSVeEBM6OhPm1ywSVUzw&s" alt="kotlin" style="width:40px; height:40px;"/>
 </a>
 <a href="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="kotlin" style="width:40px; height:40px;"/>
