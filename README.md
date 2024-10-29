@@ -19,6 +19,15 @@
 <a href="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png">
     <img src="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png" alt="kotlin" style="width:40px; height:40px;"/>
 </a>
+<a href="https://camo.githubusercontent.com/f76ca013b330e2bffb000dfd1f5487432ead1d7c6f489b6051a5ac5853ea4c78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667">
+    <img src="https://camo.githubusercontent.com/f76ca013b330e2bffb000dfd1f5487432ead1d7c6f489b6051a5ac5853ea4c78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667" alt="kotlin" style="width:40px; height:40px;"/>
+</a>
+<a href="https://camo.githubusercontent.com/67135dbb34c06b25e9657820b5fc1b877e9f40d0663f375d43626599e0bc8382/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f646f636b65722f323439364544">
+    <img src="https://camo.githubusercontent.com/67135dbb34c06b25e9657820b5fc1b877e9f40d0663f375d43626599e0bc8382/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f646f636b65722f323439364544" alt="kotlin" style="width:40px; height:40px;"/>
+</a>
+<a href="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png">
+    <img src="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png" alt="kotlin" style="width:40px; height:40px;"/>
+</a>
 
 <!--
 **zaarirmoh/zaarirmoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
