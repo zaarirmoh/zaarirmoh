@@ -21,7 +21,7 @@
 ![Retrofit2](https://img.shields.io/badge/retrofit2-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Material-Design](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![RoomDB](https://img.shields.io/badge/roomdb-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![RealmDB](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) 
+![RealmDB](https://img.shields.io/badge/Realmdb-39477F?style=for-the-badge&logo=realm&logoColor=white) 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
