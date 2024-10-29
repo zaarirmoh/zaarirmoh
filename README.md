@@ -28,3 +28,12 @@
 <a href="https://camo.githubusercontent.com/d1652ce9d9e41d898ea03bd8772e8accb903947dc6bba2a410d76462f7d63d1b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667">
     <img src="https://camo.githubusercontent.com/d1652ce9d9e41d898ea03bd8772e8accb903947dc6bba2a410d76462f7d63d1b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" alt="kotlin" style="width:40px; height:40px;"/>
 </a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="kotlin" style="width:40px; height:40px;"/>
+</a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="kotlin" style="width:40px; height:40px;"/>
+</a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="kotlin" style="width:40px; height:40px;"/>
+</a>
