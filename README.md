@@ -96,12 +96,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zaarirmoh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaarirmoh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zaarirmoh&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" alt="Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaarirmoh&theme=tokyonight&hide_border=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=zaarirmoh&theme=tokyonight&hide_border=true" alt="Streak"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=zaarirmoh&theme=tokyonight&hide_border=true" alt="Streak"/>
 </div>
 
 <div align="center">
@@ -109,7 +109,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zaarirmoh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zaarirmoh&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=7" alt="Trophies"/>
 </div>
 
 <!-- ===== FOOTER WAVE ===== -->
